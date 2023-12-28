@@ -1,0 +1,21 @@
+// Breakpoints
+$breakpoints: (
+    'sm': 540px,
+    // Small devices (landscape phones, 576px and up)
+    'md': 720px,
+    // Medium devices (tablets, 768px and up)
+    'lg': 960px,
+    // Large devices (desktops, 992px and up)
+    'xl': 1140px,
+    // Extra large devices (large desktops, 1200px and up)
+    'xxl': 1320px // Extra extra large devices (larger desktops, 1400px and up)
+);
+
+// Wrapper max widths
+$wrapper-max-widths: (
+    'sm': 540px,
+    'md': 720px,
+    'lg': 960px,
+    'xl': 1140px,
+    'xxl': 1320px
+);
